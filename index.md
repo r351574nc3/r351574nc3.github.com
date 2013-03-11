@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: r351574nc3 Posts
+tagline: 제 이름이 Inigo Montoya 입니다. 당신이 내 아버지를 죽였어. 죽을 준비해
 ---
 {% include JB/setup %}
 
