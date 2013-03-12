@@ -5,10 +5,42 @@
         <description>Psychedelic Panorama of Foo - r351574nc3</description>
         <link>http://r351574nc3.github.com</link>
         <link>http://r351574nc3.github.com</link>
-        <lastBuildDate>2013-03-10T20:30:44-07:00</lastBuildDate>
-        <pubDate>2013-03-10T20:30:44-07:00</pubDate>
+        <lastBuildDate>2013-03-12T08:25:04-07:00</lastBuildDate>
+        <pubDate>2013-03-12T08:25:04-07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Testing out github gists</title>
+                <description>&lt;script src='https://gist.github.com/r351574nc3/3054080.js?file=DemonstrationGradeEncryptionServiceImpl.java' /&gt;</description>
+                <link>http://r351574nc3.github.com/None/2013/03/11/testing-out-github-gists</link>
+                <guid>http://r351574nc3.github.com/None/2013/03/11/testing-out-github-gists</guid>
+                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+        </item>
+
+        <item>
+                <title>TeamCity Beginner's Guide with Packt Publishing</title>
+                <description>&lt;h2 id='whats_going_on'&gt;What&amp;#8217;s Going On?&lt;/h2&gt;
+
+&lt;p&gt;I was contracted by Packt Publishing to author a book about TeamCity Continuous Integration by JetBrains.&lt;/p&gt;
+
+&lt;h2 id='about_the_book'&gt;About the Book&lt;/h2&gt;
+
+&lt;p&gt;This book is for people new to TeamCity and Continuous Integration. It provides several step-by-step instructions on how to use and configure TeamCity to work with your project. Project managers, configuration managers, and developers can use this tool to improve their Agile practices.&lt;/p&gt;</description>
+                <link>http://r351574nc3.github.com/Authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</link>
+                <guid>http://r351574nc3.github.com/Authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</guid>
+                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+        </item>
+
+        <item>
+                <title>JUnit Mini Book with Packt Publishing</title>
+                <description>&lt;h2 id='whats_going_on'&gt;What&amp;#8217;s Going On?&lt;/h2&gt;
+
+&lt;h2 id='about_the_book'&gt;About the Book&lt;/h2&gt;</description>
+                <link>http://r351574nc3.github.com/Authoring/2013/03/11/junit-mini-book-with-packt-publishing</link>
+                <guid>http://r351574nc3.github.com/Authoring/2013/03/11/junit-mini-book-with-packt-publishing</guid>
+                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+        </item>
 
         <item>
                 <title>내가 지저귀다</title>
