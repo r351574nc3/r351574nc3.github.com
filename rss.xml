@@ -5,10 +5,56 @@
         <description>Psychedelic Panorama of Foo - r351574nc3</description>
         <link>http://r351574nc3.github.com</link>
         <link>http://r351574nc3.github.com</link>
-        <lastBuildDate>2013-03-10T20:30:44-07:00</lastBuildDate>
-        <pubDate>2013-03-10T20:30:44-07:00</pubDate>
+        <lastBuildDate>2013-03-12T08:36:33-07:00</lastBuildDate>
+        <pubDate>2013-03-12T08:36:33-07:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Testing out github gists</title>
+                <description>&lt;script src='https://gist.github.com/r351574nc3/3054080.js?file=DemonstrationGradeEncryptionServiceImpl.java' /&gt;</description>
+                <link>http://r351574nc3.github.com/None/2013/03/11/testing-out-github-gists</link>
+                <guid>http://r351574nc3.github.com/None/2013/03/11/testing-out-github-gists</guid>
+                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+        </item>
+
+        <item>
+                <title>TeamCity Beginner's Guide with Packt Publishing</title>
+                <description>&lt;h2 id='whats_going_on'&gt;What&amp;#8217;s Going On?&lt;/h2&gt;
+
+&lt;p&gt;I was contracted by Packt Publishing to author a book about TeamCity Continuous Integration by JetBrains. I have authored a few publications before, but this is my first book. I&amp;#8217;m not sure how much time it will take out of my normal life to complete, but I am certainly up to the task.&lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s not much I can say about it until it is finished. I&amp;#8217;ll let everyone know about my experiences writing it and what chapter I&amp;#8217;m currently on. I can&amp;#8217;t say much about the book itself other than the progress I am making and what my personal feelings are.&lt;/p&gt;
+
+&lt;p&gt;Right now I am very excited about this book. It&amp;#8217;s going to be about 16 chapters long and I&amp;#8217;m currently wrapping up chapter 3. The pace is about a chapter every couple weeks, but I&amp;#8217;m behind. In fact, I went through a period early this year and late last year where I did absolutely nothing on it. I am trying to push forth a bit faster.&lt;/p&gt;
+
+&lt;h2 id='about_the_book'&gt;About the Book&lt;/h2&gt;
+
+&lt;p&gt;This book is for people new to TeamCity and Continuous Integration. It provides several step-by-step instructions on how to use and configure TeamCity to work with your project. Project managers, configuration managers, and developers can use this tool to improve their Agile practices.&lt;/p&gt;
+
+&lt;p&gt;It covers the basics for how to setup the software and get going with your first project. If you&amp;#8217;ve ever wondered how to get started with this software and needed an easy way to dive in right away, this book is exactly what you&amp;#8217;ve been waiting for. That&amp;#8217;s my sales pitch. Seriously though, I really cover just everything in the &amp;#8220;Beginner&amp;#8217;s&amp;#8221; realm.&lt;/p&gt;</description>
+                <link>http://r351574nc3.github.com/Authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</link>
+                <guid>http://r351574nc3.github.com/Authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</guid>
+                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+        </item>
+
+        <item>
+                <title>Testing with JUnit Mini Book with Packt Publishing</title>
+                <description>&lt;h2 id='whats_going_on'&gt;What&amp;#8217;s Going On?&lt;/h2&gt;
+
+&lt;p&gt;I started another book in addition to the TeamCity book. This one is intended to go much faster. It&amp;#8217;s only 100 pages. At about 25 pages every couple weeks, this should be done in 2 months. My first chapter is due this week.&lt;/p&gt;
+
+&lt;h2 id='about_the_book'&gt;About the Book&lt;/h2&gt;
+
+&lt;p&gt;For starters, it&amp;#8217;s just like the title implies. It&amp;#8217;s a mini book (about 100 pages) about JUnit. That said, JUnit implies unit testing with java and junit. Beyond that, this book is a cookbook or collection of howto&amp;#8217;s an recipies about writing really good JUnit tests.&lt;/p&gt;
+
+&lt;p&gt;I had a little time grasping just what context to use for java development. We&amp;#8217;re going to cover enterprise and web applications as well as some Android and mobile development. It&amp;#8217;s really exciting stuff.&lt;/p&gt;
+
+&lt;p&gt;Most importantly, it&amp;#8217;s a very up-to-date book on modern unit testing and features of JUnit. It&amp;#8217;s also a good collection/reference for good unit test development and techniques. I cover several features of JUnit including exception handling and rules.&lt;/p&gt;</description>
+                <link>http://r351574nc3.github.com/Authoring/2013/03/11/junit-mini-book-with-packt-publishing</link>
+                <guid>http://r351574nc3.github.com/Authoring/2013/03/11/junit-mini-book-with-packt-publishing</guid>
+                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+        </item>
 
         <item>
                 <title>내가 지저귀다</title>
