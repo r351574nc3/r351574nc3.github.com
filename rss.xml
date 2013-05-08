@@ -5,8 +5,8 @@
         <description>Psychedelic Panorama of Foo - r351574nc3</description>
         <link>http://r351574nc3.github.com</link>
         <link>http://r351574nc3.github.com</link>
-        <lastBuildDate>2013-03-14T02:22:50-07:00</lastBuildDate>
-        <pubDate>2013-03-14T02:22:50-07:00</pubDate>
+        <lastBuildDate>2013-05-08T11:38:10+02:00</lastBuildDate>
+        <pubDate>2013-05-08T11:38:10+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -19,12 +19,12 @@
 &lt;p&gt;Thankfully again, tsung comes with a recorder that allows us to generate our tests by running our user interface tests. This is an example of how to do that.&lt;/p&gt;
 
 &lt;h2 id='get_your_popcorn'&gt;Get Your Popcorn&lt;/h2&gt;
-&lt;embed height='385' allowfullscreen='false' type='application/x-shockwave-flash' style='' name='movie_player' width='640' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' id='movie_player' quality='high' /&gt;
+&lt;embed quality='high' style='' width='640' height='385' type='application/x-shockwave-flash' allowfullscreen='false' name='movie_player' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' id='movie_player' /&gt;
 &lt;p&gt;There&amp;#8217;s a &lt;a href='http://www.github.com/r351574nc3/ks-watir'&gt;github
 project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
                 <link>http://r351574nc3.github.com/Development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</link>
                 <guid>http://r351574nc3.github.com/Development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</guid>
-                <pubDate>2013-03-14T00:00:00-07:00</pubDate>
+                <pubDate>2013-03-14T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -32,7 +32,7 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
                 <description>&lt;script src='https://gist.github.com/r351574nc3/3054080.js?file=DemonstrationGradeEncryptionServiceImpl.java' /&gt;</description>
                 <link>http://r351574nc3.github.com/None/2013/03/11/testing-out-github-gists</link>
                 <guid>http://r351574nc3.github.com/None/2013/03/11/testing-out-github-gists</guid>
-                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+                <pubDate>2013-03-11T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -52,7 +52,7 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
 &lt;p&gt;It covers the basics for how to setup the software and get going with your first project. If you&amp;#8217;ve ever wondered how to get started with this software and needed an easy way to dive in right away, this book is exactly what you&amp;#8217;ve been waiting for. That&amp;#8217;s my sales pitch. Seriously though, I really cover just everything in the &amp;#8220;Beginner&amp;#8217;s&amp;#8221; realm.&lt;/p&gt;</description>
                 <link>http://r351574nc3.github.com/Authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</link>
                 <guid>http://r351574nc3.github.com/Authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</guid>
-                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+                <pubDate>2013-03-11T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -70,7 +70,7 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
 &lt;p&gt;Most importantly, it&amp;#8217;s a very up-to-date book on modern unit testing and features of JUnit. It&amp;#8217;s also a good collection/reference for good unit test development and techniques. I cover several features of JUnit including exception handling and rules.&lt;/p&gt;</description>
                 <link>http://r351574nc3.github.com/Authoring/2013/03/11/junit-mini-book-with-packt-publishing</link>
                 <guid>http://r351574nc3.github.com/Authoring/2013/03/11/junit-mini-book-with-packt-publishing</guid>
-                <pubDate>2013-03-11T00:00:00-07:00</pubDate>
+                <pubDate>2013-03-11T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -78,7 +78,7 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
                 <description>&lt;p&gt;내가 여기에서 지저귀다.&lt;/p&gt;</description>
                 <link>http://r351574nc3.github.com/2013/03/10/-</link>
                 <guid>http://r351574nc3.github.com/2013/03/10/-</guid>
-                <pubDate>2013-03-10T00:00:00-07:00</pubDate>
+                <pubDate>2013-03-10T00:00:00+02:00</pubDate>
         </item>
 
 

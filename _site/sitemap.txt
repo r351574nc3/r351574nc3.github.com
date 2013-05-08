@@ -9,6 +9,7 @@ http://r351574nc3.github.com/rss.xml
 http://r351574nc3.github.com/sitemap.txt
 http://r351574nc3.github.com/tags.html
 
+http://r351574nc3.github.com/Development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests
 http://r351574nc3.github.com/None/2013/03/11/testing-out-github-gists
 http://r351574nc3.github.com/Authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing
 http://r351574nc3.github.com/Authoring/2013/03/11/junit-mini-book-with-packt-publishing
