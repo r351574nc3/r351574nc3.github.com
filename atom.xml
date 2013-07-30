@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Psychedelic Panorama of Foo</title>
- <link href="http://r351574nc3.github.com/" rel="self"/>
- <link href="http://r351574nc3.github.com"/>
- <updated>2013-07-30T09:19:47-07:00</updated>
- <id>http://r351574nc3.github.com</id>
+ <link href="http://r351574nc3.github.io/" rel="self"/>
+ <link href="http://r351574nc3.github.io"/>
+ <updated>2013-07-30T09:36:47-07:00</updated>
+ <id>http://r351574nc3.github.io</id>
  <author>
    <name>r351574nc3</name>
    <email>r351574nc3@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Gangplank Open Hacknight: Sugru Build Night</title>
-   <link href="http://r351574nc3.github.com/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night"/>
+   <link href="http://r351574nc3.github.io/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night"/>
    <updated>2013-07-30T00:00:00-07:00</updated>
-   <id>http://r351574nc3.github.com/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night</id>
+   <id>http://r351574nc3.github.io/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night</id>
    <content type="html">&lt;h2 id='the_discovery_of_sugru'&gt;The Discovery of Sugru&lt;/h2&gt;
 
 &lt;p&gt;Just recently I discovered this awesome product that helped me make things and think about making stuff in new and interesting ways. It&amp;#8217;s this stuff that feels like putty, but it&amp;#8217;s so much more. It&amp;#8217;s a self-setting, moldable rubber called Sugru. Right away, I have a number of uses for fixing things. It&amp;#8217;s waterproof, heat tolerant, and adheres to just about anything. Even if you don&amp;#8217;t make stuff, it&amp;#8217;s immediately useful to the world for fixing. The great thing is that it&amp;#8217;s not even really a challenge for making either. It&amp;#8217;s your own moldable rubber. That&amp;#8217;s awesome, right!? How many projects can you think of that you have where you would improve it if you had your own moldable rubber? Or how many projects have you not been able to get off the ground because you couldn&amp;#8217;t fabricate your own rubber?&lt;/p&gt;
@@ -46,9 +46,9 @@
  
  <entry>
    <title>How To Use Watir and RSpec to Generate Tsung Tests</title>
-   <link href="http://r351574nc3.github.com/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests"/>
+   <link href="http://r351574nc3.github.io/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests"/>
    <updated>2013-03-14T00:00:00-07:00</updated>
-   <id>http://r351574nc3.github.com/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</id>
+   <id>http://r351574nc3.github.io/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</id>
    <content type="html">&lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;Developing and managing tsung tests performance tests can be difficult because of the immense amount over verbose XML. Thankfully, much of what you test for performance is already available as an automated user interface test via Watir/Selenium/Webdriver. So, why not just reuse the test instead of maintaining the same test in 2 formats?&lt;/p&gt;
@@ -56,24 +56,24 @@
 &lt;p&gt;Thankfully again, tsung comes with a recorder that allows us to generate our tests by running our user interface tests. This is an example of how to do that.&lt;/p&gt;
 
 &lt;h2 id='get_your_popcorn'&gt;Get Your Popcorn&lt;/h2&gt;
-&lt;embed style='' width='640' id='movie_player' quality='high' height='385' allowfullscreen='false' name='movie_player' type='application/x-shockwave-flash' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' /&gt;
+&lt;embed quality='high' style='' width='640' id='movie_player' height='385' name='movie_player' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' allowfullscreen='false' type='application/x-shockwave-flash' /&gt;
 &lt;p&gt;There&amp;#8217;s a &lt;a href='http://www.github.com/r351574nc3/ks-watir'&gt;github
 project&lt;/a&gt; with example source code.&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Testing out github gists</title>
-   <link href="http://r351574nc3.github.com/none/2013/03/11/testing-out-github-gists"/>
+   <link href="http://r351574nc3.github.io/none/2013/03/11/testing-out-github-gists"/>
    <updated>2013-03-11T00:00:00-07:00</updated>
-   <id>http://r351574nc3.github.com/none/2013/03/11/testing-out-github-gists</id>
+   <id>http://r351574nc3.github.io/none/2013/03/11/testing-out-github-gists</id>
    <content type="html">&lt;script src='https://gist.github.com/r351574nc3/3054080.js?file=DemonstrationGradeEncryptionServiceImpl.java' /&gt;</content>
  </entry>
  
  <entry>
    <title>TeamCity Beginner's Guide with Packt Publishing</title>
-   <link href="http://r351574nc3.github.com/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing"/>
+   <link href="http://r351574nc3.github.io/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing"/>
    <updated>2013-03-11T00:00:00-07:00</updated>
-   <id>http://r351574nc3.github.com/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</id>
+   <id>http://r351574nc3.github.io/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</id>
    <content type="html">&lt;h2 id='whats_going_on'&gt;What&amp;#8217;s Going On?&lt;/h2&gt;
 
 &lt;p&gt;I was contracted by Packt Publishing to author a book about TeamCity Continuous Integration by JetBrains. I have authored a few publications before, but this is my first book. I&amp;#8217;m not sure how much time it will take out of my normal life to complete, but I am certainly up to the task.&lt;/p&gt;
@@ -91,9 +91,9 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</content>
  
  <entry>
    <title>Testing with JUnit Mini Book with Packt Publishing</title>
-   <link href="http://r351574nc3.github.com/authoring/2013/03/11/junit-mini-book-with-packt-publishing"/>
+   <link href="http://r351574nc3.github.io/authoring/2013/03/11/junit-mini-book-with-packt-publishing"/>
    <updated>2013-03-11T00:00:00-07:00</updated>
-   <id>http://r351574nc3.github.com/authoring/2013/03/11/junit-mini-book-with-packt-publishing</id>
+   <id>http://r351574nc3.github.io/authoring/2013/03/11/junit-mini-book-with-packt-publishing</id>
    <content type="html">&lt;h2 id='whats_going_on'&gt;What&amp;#8217;s Going On?&lt;/h2&gt;
 
 &lt;p&gt;I started another book in addition to the TeamCity book. This one is intended to go much faster. It&amp;#8217;s only 100 pages. At about 25 pages every couple weeks, this should be done in 2 months. My first chapter is due this week.&lt;/p&gt;
@@ -109,9 +109,9 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</content>
  
  <entry>
    <title>내가 지저귀다</title>
-   <link href="http://r351574nc3.github.com/2013/03/10/-"/>
+   <link href="http://r351574nc3.github.io/2013/03/10/-"/>
    <updated>2013-03-10T00:00:00-07:00</updated>
-   <id>http://r351574nc3.github.com/2013/03/10/-</id>
+   <id>http://r351574nc3.github.io/2013/03/10/-</id>
    <content type="html">&lt;p&gt;내가 여기에서 지저귀다.&lt;/p&gt;</content>
  </entry>
  

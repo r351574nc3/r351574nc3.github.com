@@ -3,10 +3,10 @@
 <channel>
         <title>Psychedelic Panorama of Foo</title>
         <description>Psychedelic Panorama of Foo - r351574nc3</description>
-        <link>http://r351574nc3.github.com</link>
-        <link>http://r351574nc3.github.com</link>
-        <lastBuildDate>2013-07-30T09:19:47-07:00</lastBuildDate>
-        <pubDate>2013-07-30T09:19:47-07:00</pubDate>
+        <link>http://r351574nc3.github.io</link>
+        <link>http://r351574nc3.github.io</link>
+        <lastBuildDate>2013-07-30T09:36:47-07:00</lastBuildDate>
+        <pubDate>2013-07-30T09:36:47-07:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -37,8 +37,8 @@
 
 &lt;li&gt;Become a Sugru project building machine.&lt;/li&gt;
 &lt;/ul&gt;</description>
-                <link>http://r351574nc3.github.com/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night</link>
-                <guid>http://r351574nc3.github.com/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night</guid>
+                <link>http://r351574nc3.github.io/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night</link>
+                <guid>http://r351574nc3.github.io/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night</guid>
                 <pubDate>2013-07-30T00:00:00-07:00</pubDate>
         </item>
 
@@ -51,19 +51,19 @@
 &lt;p&gt;Thankfully again, tsung comes with a recorder that allows us to generate our tests by running our user interface tests. This is an example of how to do that.&lt;/p&gt;
 
 &lt;h2 id='get_your_popcorn'&gt;Get Your Popcorn&lt;/h2&gt;
-&lt;embed style='' width='640' id='movie_player' quality='high' height='385' allowfullscreen='false' name='movie_player' type='application/x-shockwave-flash' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' /&gt;
+&lt;embed quality='high' style='' width='640' id='movie_player' height='385' name='movie_player' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' allowfullscreen='false' type='application/x-shockwave-flash' /&gt;
 &lt;p&gt;There&amp;#8217;s a &lt;a href='http://www.github.com/r351574nc3/ks-watir'&gt;github
 project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
-                <link>http://r351574nc3.github.com/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</link>
-                <guid>http://r351574nc3.github.com/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</guid>
+                <link>http://r351574nc3.github.io/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</link>
+                <guid>http://r351574nc3.github.io/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</guid>
                 <pubDate>2013-03-14T00:00:00-07:00</pubDate>
         </item>
 
         <item>
                 <title>Testing out github gists</title>
                 <description>&lt;script src='https://gist.github.com/r351574nc3/3054080.js?file=DemonstrationGradeEncryptionServiceImpl.java' /&gt;</description>
-                <link>http://r351574nc3.github.com/none/2013/03/11/testing-out-github-gists</link>
-                <guid>http://r351574nc3.github.com/none/2013/03/11/testing-out-github-gists</guid>
+                <link>http://r351574nc3.github.io/none/2013/03/11/testing-out-github-gists</link>
+                <guid>http://r351574nc3.github.io/none/2013/03/11/testing-out-github-gists</guid>
                 <pubDate>2013-03-11T00:00:00-07:00</pubDate>
         </item>
 
@@ -82,8 +82,8 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
 &lt;p&gt;This book is for people new to TeamCity and Continuous Integration. It provides several step-by-step instructions on how to use and configure TeamCity to work with your project. Project managers, configuration managers, and developers can use this tool to improve their Agile practices.&lt;/p&gt;
 
 &lt;p&gt;It covers the basics for how to setup the software and get going with your first project. If you&amp;#8217;ve ever wondered how to get started with this software and needed an easy way to dive in right away, this book is exactly what you&amp;#8217;ve been waiting for. That&amp;#8217;s my sales pitch. Seriously though, I really cover just everything in the &amp;#8220;Beginner&amp;#8217;s&amp;#8221; realm.&lt;/p&gt;</description>
-                <link>http://r351574nc3.github.com/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</link>
-                <guid>http://r351574nc3.github.com/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</guid>
+                <link>http://r351574nc3.github.io/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</link>
+                <guid>http://r351574nc3.github.io/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing</guid>
                 <pubDate>2013-03-11T00:00:00-07:00</pubDate>
         </item>
 
@@ -100,16 +100,16 @@ project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
 &lt;p&gt;I had a little time grasping just what context to use for java development. We&amp;#8217;re going to cover enterprise and web applications as well as some Android and mobile development. It&amp;#8217;s really exciting stuff.&lt;/p&gt;
 
 &lt;p&gt;Most importantly, it&amp;#8217;s a very up-to-date book on modern unit testing and features of JUnit. It&amp;#8217;s also a good collection/reference for good unit test development and techniques. I cover several features of JUnit including exception handling and rules.&lt;/p&gt;</description>
-                <link>http://r351574nc3.github.com/authoring/2013/03/11/junit-mini-book-with-packt-publishing</link>
-                <guid>http://r351574nc3.github.com/authoring/2013/03/11/junit-mini-book-with-packt-publishing</guid>
+                <link>http://r351574nc3.github.io/authoring/2013/03/11/junit-mini-book-with-packt-publishing</link>
+                <guid>http://r351574nc3.github.io/authoring/2013/03/11/junit-mini-book-with-packt-publishing</guid>
                 <pubDate>2013-03-11T00:00:00-07:00</pubDate>
         </item>
 
         <item>
                 <title>내가 지저귀다</title>
                 <description>&lt;p&gt;내가 여기에서 지저귀다.&lt;/p&gt;</description>
-                <link>http://r351574nc3.github.com/2013/03/10/-</link>
-                <guid>http://r351574nc3.github.com/2013/03/10/-</guid>
+                <link>http://r351574nc3.github.io/2013/03/10/-</link>
+                <guid>http://r351574nc3.github.io/2013/03/10/-</guid>
                 <pubDate>2013-03-10T00:00:00-07:00</pubDate>
         </item>
 

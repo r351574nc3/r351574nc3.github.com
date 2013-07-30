@@ -1,17 +1,17 @@
 
-http://r351574nc3.github.com/about.html
-http://r351574nc3.github.com/archive.html
-http://r351574nc3.github.com/atom.xml
-http://r351574nc3.github.com/categories.html
-http://r351574nc3.github.com/index.html
-http://r351574nc3.github.com/pages.html
-http://r351574nc3.github.com/rss.xml
-http://r351574nc3.github.com/sitemap.txt
-http://r351574nc3.github.com/tags.html
+http://r351574nc3.github.io/about.html
+http://r351574nc3.github.io/archive.html
+http://r351574nc3.github.io/atom.xml
+http://r351574nc3.github.io/categories.html
+http://r351574nc3.github.io/index.html
+http://r351574nc3.github.io/pages.html
+http://r351574nc3.github.io/rss.xml
+http://r351574nc3.github.io/sitemap.txt
+http://r351574nc3.github.io/tags.html
 
-http://r351574nc3.github.com/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night
-http://r351574nc3.github.com/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests
-http://r351574nc3.github.com/none/2013/03/11/testing-out-github-gists
-http://r351574nc3.github.com/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing
-http://r351574nc3.github.com/authoring/2013/03/11/junit-mini-book-with-packt-publishing
-http://r351574nc3.github.com/2013/03/10/-
+http://r351574nc3.github.io/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night
+http://r351574nc3.github.io/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests
+http://r351574nc3.github.io/none/2013/03/11/testing-out-github-gists
+http://r351574nc3.github.io/authoring/2013/03/11/teamcity-beginners-guide-with-packt-publishing
+http://r351574nc3.github.io/authoring/2013/03/11/junit-mini-book-with-packt-publishing
+http://r351574nc3.github.io/2013/03/10/-
