@@ -14,7 +14,10 @@ tags: [sugru,hacknight,gangplank]
 For those of you who remember the [Original Sugru Build Night](/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night/) from
 earlier in July, it's back by popular demand! What's changed? Checkout my intro video below.
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/4lxGdnWn2Ic" frameborder="0"></iframe>
+<embed width="640" height="385" allowfullscreen="false" quality="high"
+name="movie_player" id="movie_player" style=""
+src="http://www.youtube.com/v/4lxGdnWn2Ic?hd=1&showinfo=0&amp;enablejsapi=1&amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;hl=en_US&amp;fs=1"
+type="application/x-shockwave-flash" />
 
 ## More Sugru!
 
