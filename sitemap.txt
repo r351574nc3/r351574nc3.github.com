@@ -9,6 +9,7 @@ http://r351574nc3.github.io/rss.xml
 http://r351574nc3.github.io/sitemap.txt
 http://r351574nc3.github.io/tags.html
 
+http://r351574nc3.github.io/gangplank/2013/10/04/gangplank-open-hacknight-return-of-sugru-build-night
 http://r351574nc3.github.io/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night
 http://r351574nc3.github.io/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests
 http://r351574nc3.github.io/none/2013/03/11/testing-out-github-gists
