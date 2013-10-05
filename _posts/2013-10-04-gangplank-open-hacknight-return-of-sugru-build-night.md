@@ -7,7 +7,8 @@ tags: [sugru,hacknight,gangplank]
 ---
 {% include JB/setup %}
 
-<img src="https://lh6.googleusercontent.com/-SGH1_JbmteM/UexTKg-DZBI/AAAAAAAAJmU/taRWkwkxCSc/w780-h583-no/13+-+1"  title="Sugru packets piled up" alt="Sugru packets piled up" width="480" />
+<!-- Place this tag where you want the widget to render. -->
+<div><div class="g-post" data-href="https://plus.google.com/111951403234494220528/posts/a22rA1ZZGki"></div></div>
 
 ## Sugru Build Night Returns!
 
