@@ -5,18 +5,18 @@
         <description>Psychedelic Panorama of Foo - r351574nc3</description>
         <link>http://r351574nc3.github.io</link>
         <link>http://r351574nc3.github.io</link>
-        <lastBuildDate>2013-10-04T11:37:10-07:00</lastBuildDate>
-        <pubDate>2013-10-04T11:37:10-07:00</pubDate>
+        <lastBuildDate>2013-10-04T19:30:30-07:00</lastBuildDate>
+        <pubDate>2013-10-04T19:30:30-07:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>Gangplank Open Hacknight: Return of Sugru Build Night</title>
-                <description>&lt;img alt='Sugru packets piled up' src='https://lh6.googleusercontent.com/-SGH1_JbmteM/UexTKg-DZBI/AAAAAAAAJmU/taRWkwkxCSc/w780-h583-no/13+-+1' title='Sugru packets piled up' width='480' /&gt;
+                <description>&lt;!-- Place this tag where you want the widget to render. --&gt;&lt;div&gt;&lt;div data-href='https://plus.google.com/111951403234494220528/posts/a22rA1ZZGki' class='g-post' /&gt;&lt;/div&gt;
 &lt;h2 id='sugru_build_night_returns'&gt;Sugru Build Night Returns!&lt;/h2&gt;
 
 &lt;p&gt;For those of you who remember the &lt;a href='/gangplank/2013/07/30/gangplank-open-hacknight-sugru-build-night/'&gt;Original Sugru Build Night&lt;/a&gt; from earlier in July, it&amp;#8217;s back by popular demand! What&amp;#8217;s changed? Checkout my intro video below.&lt;/p&gt;
-&lt;embed id='movie_player' height='385' type='application/x-shockwave-flash' src='http://www.youtube.com/v/4lxGdnWn2Ic?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' allowfullscreen='false' name='movie_player' style='' width='640' quality='high' /&gt;
+&lt;embed height='385' style='' type='application/x-shockwave-flash' quality='high' src='http://www.youtube.com/v/4lxGdnWn2Ic?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' allowfullscreen='false' width='640' name='movie_player' id='movie_player' /&gt;
 &lt;h2 id='more_sugru'&gt;More Sugru!&lt;/h2&gt;
 
 &lt;p&gt;After the original Sugru Build Night, we knew we wanted to do more. We wanted to go higher, shine brighter, and just be awesomer than ever before. We just didn&amp;#8217;t know how. We were consistently blocked by the semantically nullifying, &amp;#8220;we don&amp;#8217;t know what we don&amp;#8217;t know.&amp;#8221; Then, the idea struck us.&lt;/p&gt;
@@ -49,7 +49,7 @@
 
         <item>
                 <title>Gangplank Open Hacknight: Sugru Build Night</title>
-                <description>&lt;img alt='Sugru packets piled up' src='https://lh6.googleusercontent.com/-SGH1_JbmteM/UexTKg-DZBI/AAAAAAAAJmU/taRWkwkxCSc/w780-h583-no/13+-+1' title='Sugru packets piled up' width='480' /&gt;
+                <description>&lt;img title='Sugru packets piled up' alt='Sugru packets piled up' src='https://lh6.googleusercontent.com/-SGH1_JbmteM/UexTKg-DZBI/AAAAAAAAJmU/taRWkwkxCSc/w780-h583-no/13+-+1' width='480' /&gt;
 &lt;h2 id='the_discovery_of_sugru'&gt;The Discovery of Sugru&lt;/h2&gt;
 
 &lt;p&gt;Just recently I discovered this awesome product that helped me make things and think about making stuff in new and interesting ways. It&amp;#8217;s this stuff that feels like putty, but it&amp;#8217;s so much more. It&amp;#8217;s a self-setting, moldable rubber called Sugru. Right away, I have a number of uses for fixing things. It&amp;#8217;s waterproof, heat tolerant, and adheres to just about anything. Even if you don&amp;#8217;t make stuff, it&amp;#8217;s immediately useful to the world for fixing. The great thing is that it&amp;#8217;s not even really a challenge for making either. It&amp;#8217;s your own moldable rubber. That&amp;#8217;s awesome, right!? How many projects can you think of that you have where you would improve it if you had your own moldable rubber? Or how many projects have you not been able to get off the ground because you couldn&amp;#8217;t fabricate your own rubber?&lt;/p&gt;
@@ -89,7 +89,7 @@
 &lt;p&gt;Thankfully again, tsung comes with a recorder that allows us to generate our tests by running our user interface tests. This is an example of how to do that.&lt;/p&gt;
 
 &lt;h2 id='get_your_popcorn'&gt;Get Your Popcorn&lt;/h2&gt;
-&lt;embed id='movie_player' height='385' type='application/x-shockwave-flash' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' allowfullscreen='false' name='movie_player' style='' width='640' quality='high' /&gt;
+&lt;embed height='385' style='' type='application/x-shockwave-flash' quality='high' src='http://www.youtube.com/v/AIfVUvsU4Fw?hd=1&amp;showinfo=0&amp;amp;enablejsapi=1&amp;amp;et=OEgsToPDskJni4UfFH3f0WbK6L_15ohf&amp;amp;hl=en_US&amp;amp;fs=1' allowfullscreen='false' width='640' name='movie_player' id='movie_player' /&gt;
 &lt;p&gt;There&amp;#8217;s a &lt;a href='http://www.github.com/r351574nc3/ks-watir'&gt;github
 project&lt;/a&gt; with example source code.&lt;/p&gt;</description>
                 <link>http://r351574nc3.github.io/development/2013/03/14/how-to-use-watir-and-rspec-to-generate-tsung-tests</link>
